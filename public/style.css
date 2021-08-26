@@ -1,0 +1,162 @@
+body{
+  padding-top: 200px;
+  background-image: url(https://www.papeiseparede.com.br/3257-thickbox_default/papel-de-parede-whatsapp-branco-e-azul.jpg);
+ margin: 20px;
+ 
+}
+body li{
+  text-decoration: none;
+ list-style: none;
+ display: flex;
+ position: relative;
+ left: 100px;
+ bottom: 200px;
+
+}
+
+body ul{
+  display: flex;
+  margin-right: 100px;
+  margin-left: 850px;
+  justify-content: space-between;
+}
+
+body li{
+font-size: 15pt;
+font-weight: 900;
+}
+
+.menus li{
+  align-items: center;
+}
+
+
+article{
+ background: white;
+margin: auto;
+width: 800px;
+height: 560px;
+box-shadow: -5px -5px 10px -5px gray;
+
+
+}
+
+#p1{
+  background:white;
+  width: 800px;
+  height: 300px;
+ 
+}
+#p2,#p3{
+  width: 400px;
+  height: 290px;
+  font-size: 12px;
+  float: left;
+  word-wrap:break-word;
+  color: white;
+}
+/* #p1, #p2,#p3{
+  padding-left: 40px;
+} */
+#p2{
+background: #00CED1;
+border-radius: 0 50px 0 0;
+}
+#p3{
+background: white;
+
+}
+
+h1{
+  position: relative;
+  left: 40px;
+  top: 30px;
+  margin: 0px;
+  font-size: 18pt;
+  font-weight: 900;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#p1 h1{
+  color: #00CED1;
+  top: 50px;
+}
+
+#preco{
+  position: relative;
+ top: 40px;
+ left: 43px;
+ font-size: 25pt;
+ font-family:Arial, Helvetica, sans-serif
+}
+
+#txt_preco{
+  position: relative;
+  top: 15pt;
+  left: 85pt;
+  opacity: 0.7;
+}
+
+#txt_p11{
+  position: relative;
+  top: 60px;
+  left: 40px;
+  color: rgb(63, 175, 63);
+  font-weight: 900;
+}
+#txt_p12{
+  position: relative;
+  top:50pt;
+  left: 35pt;
+  font-size: 12pt; 
+  color: gray;
+}
+
+#txt_sec2{
+  position: relative;
+  top:5px;
+  left: 35pt;
+  font-size: 12pt;
+}
+
+#txt_p3{
+  position: relative;
+  top:35pt;
+  left: 35pt;
+  font-size: 12pt;
+}
+
+
+
+.formulario{
+  width: 285px;
+  height: 28pt;
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+.but_externo{
+  margin-top: 15px;
+  margin-left: 20px;
+  width: 292px;
+  height: 40px;
+  background: #00197c;
+  color: white;
+  box-shadow: 0px 0px 10px -5px black;
+  cursor: pointer;
+  border-radius:5%;
+}
+
+#ilustracao{
+  position: relative;
+  bottom: -15px;
+}
+
+.menus li img{
+width: 30px;
+height: 30px;
+}
+
+body background-image{
+  opacity: 0%;
+}
