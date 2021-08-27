@@ -1,5 +1,6 @@
 {
-  "hosting": {
+  "hosting": { 
+    "site": "mynewlandingpageproject2021",
     "public": "public",
     "ignore": [
       "firebase.json",
