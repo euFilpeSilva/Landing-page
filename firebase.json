@@ -1,6 +1,6 @@
 {
   "hosting": { 
-    "site": "mynewlandingpageproject2021",
+    "site": "landing-page-56608",
     "public": "public",
     "ignore": [
       "firebase.json",
