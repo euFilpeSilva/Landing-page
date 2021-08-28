@@ -323,3 +323,24 @@ footer ul li:nth-child(4) {
     font-size: 40px;
   }
 }
+
+#botao{
+  padding: 3px 3px;
+background: #d11e21;
+color: white;
+  height: 50px;
+  width: 160px;
+  font-family: Arial;
+  transition: 500ms;
+}
+
+#botao:hover {
+  background: white;
+  color: #191c03;
+  width: 175px;
+  height: 65px;
+  transition: 500ms;
+  font-size: 14pt;
+  cursor: pointer;
+  font-weight: 600;
+}
